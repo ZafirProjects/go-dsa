@@ -8,4 +8,4 @@ To use the program, run:
 ```
 go test
 ```
-in any of the sub-directories (arrays, stacks...)
+in any of the sub-directories (array, trees...)
