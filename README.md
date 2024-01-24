@@ -1,11 +1,15 @@
 # go-dsa
 Theprimeagen's course on data structures and algorithms written in Go.
 
-The hashmaps, heaps, and trees folders are not entirely done yet.
-The tests for the data structures and algorithms are not comprehensive.
+```
+git clone https://github.com/ZafirProjects/go-dsa.git
+```
 
-To use the program, run:
+cd into any of the sub-directories in this repository and run the following command:
 ```
 go test
 ```
-in any of the sub-directories (array, trees...)
+This should run the files that test the DSs and Algorithms.
+
+The hashmaps, heaps, and trees folders are not entirely done yet.
+The tests for the data structures and algorithms are not comprehensive.
